@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Lab294.cpp
+d:\labs2017(5)\practice)\lab2.9.4\lab2.9.4\lab294.cpp(16): warning C4018: '<': signed/unsigned mismatch
+  Lab2.9.4.vcxproj -> D:\Labs2017(5)\Practice)\Lab2.9.4\Debug\Lab2.9.4.exe
+  Lab2.9.4.vcxproj -> D:\Labs2017(5)\Practice)\Lab2.9.4\Debug\Lab2.9.4.pdb (Partial PDB)

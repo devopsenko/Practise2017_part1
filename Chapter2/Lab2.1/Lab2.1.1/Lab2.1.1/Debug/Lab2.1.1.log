@@ -1,0 +1,5 @@
+﻿  Lab211.cpp
+d:\labs2017(5)\practice)\lab2.1.1\lab2.1.1\lab211.cpp(14): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\labs2017(5)\practice)\lab2.1.1\lab2.1.1\lab211.cpp(14): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+  Lab2.1.1.vcxproj -> D:\Labs2017(5)\Practice)\Lab2.1.1\Debug\Lab2.1.1.exe
+  Lab2.1.1.vcxproj -> D:\Labs2017(5)\Practice)\Lab2.1.1\Debug\Lab2.1.1.pdb (Partial PDB)
