@@ -1,0 +1,4 @@
+﻿  Lab13.cpp
+d:\labs2017(5)\practice)\lab1.3\lab1.3\lab13.cpp(14): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Lab1.3.vcxproj -> D:\Labs2017(5)\Practice)\Lab1.3\Debug\Lab1.3.exe
+  Lab1.3.vcxproj -> D:\Labs2017(5)\Practice)\Lab1.3\Debug\Lab1.3.pdb (Partial PDB)
