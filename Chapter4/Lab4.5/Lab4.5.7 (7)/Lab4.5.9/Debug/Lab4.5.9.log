@@ -1,0 +1,7 @@
+﻿  Lab459.cpp
+d:\labs2017(5)\practice)\lab4.5.9\lab4.5.9\lab459.cpp(25): warning C4018: '<': signed/unsigned mismatch
+d:\labs2017(5)\practice)\lab4.5.9\lab4.5.9\lab459.cpp(35): warning C4018: '<': signed/unsigned mismatch
+d:\labs2017(5)\practice)\lab4.5.9\lab4.5.9\lab459.cpp(45): warning C4018: '<': signed/unsigned mismatch
+d:\labs2017(5)\practice)\lab4.5.9\lab4.5.9\lab459.cpp(55): warning C4018: '<': signed/unsigned mismatch
+  Lab4.5.9.vcxproj -> D:\Labs2017(5)\Practice)\Lab4.5.9\Debug\Lab4.5.9.exe
+  Lab4.5.9.vcxproj -> D:\Labs2017(5)\Practice)\Lab4.5.9\Debug\Lab4.5.9.pdb (Partial PDB)

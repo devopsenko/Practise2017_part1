@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Lab451.cpp
+d:\labs2017(5)\practice)\lab4.5.1\lab4.5.1\lab451.cpp(63): warning C4018: '<': signed/unsigned mismatch
+d:\labs2017(5)\practice)\lab4.5.1\lab4.5.1\lab451.cpp(84): warning C4018: '<': signed/unsigned mismatch
+d:\labs2017(5)\practice)\lab4.5.1\lab4.5.1\lab451.cpp(75): warning C4101: 'temp': unreferenced local variable
+  Lab4.5.1.vcxproj -> D:\Labs2017(5)\Practice)\Lab4.5.1\Debug\Lab4.5.1.exe
+  Lab4.5.1.vcxproj -> D:\Labs2017(5)\Practice)\Lab4.5.1\Debug\Lab4.5.1.pdb (Partial PDB)
