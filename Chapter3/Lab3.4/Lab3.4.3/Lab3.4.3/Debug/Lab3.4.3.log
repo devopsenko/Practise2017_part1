@@ -1,0 +1,6 @@
+﻿  Lab343.cpp
+d:\labs2017(5)\practice)\lab3.4.3\lab3.4.3\lab343.cpp(16): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\labs2017(5)\practice)\lab3.4.3\lab3.4.3\lab343.cpp(16): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+d:\labs2017(5)\practice)\lab3.4.3\lab3.4.3\lab343.cpp(29): warning C4018: '<': signed/unsigned mismatch
+  Lab3.4.3.vcxproj -> D:\Labs2017(5)\Practice)\Lab3.4.3\Debug\Lab3.4.3.exe
+  Lab3.4.3.vcxproj -> D:\Labs2017(5)\Practice)\Lab3.4.3\Debug\Lab3.4.3.pdb (Partial PDB)

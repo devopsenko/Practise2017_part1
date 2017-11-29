@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Lab321.cpp
+d:\users\rodion\рабочий стол\лекции\5-й семестр\навчальна практика\labs\labs - 3.2 (2)\3_2_12.1\lab3.2.1\lab321.cpp(14): warning C4018: '<': signed/unsigned mismatch
+  LINK : D:\USERS\Rodion\Рабочий стол\Лекции\5-й семестр\Навчальна практика\Labs\Labs - 3.2 (2)\3_2_12.1\Debug\Lab3.2.1.exe not found or not built by the last incremental link; performing full link
+  Lab3.2.1.vcxproj -> D:\USERS\Rodion\Рабочий стол\Лекции\5-й семестр\Навчальна практика\Labs\Labs - 3.2 (2)\3_2_12.1\Debug\Lab3.2.1.exe
+  Lab3.2.1.vcxproj -> D:\USERS\Rodion\Рабочий стол\Лекции\5-й семестр\Навчальна практика\Labs\Labs - 3.2 (2)\3_2_12.1\Debug\Lab3.2.1.pdb (Partial PDB)
