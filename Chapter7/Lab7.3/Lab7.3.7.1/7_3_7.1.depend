@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1512768359 source:d:\users\rodion\Рабочий стол\Лекции\5-й семестр\Навчальна практика\labs\labs - 7.3 (2)\7_3_7.1\main.cpp
+	<iostream>
+	<fstream>
+	<stdexcept>
+	<sys/stat.h>
+
