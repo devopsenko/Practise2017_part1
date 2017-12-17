@@ -1,0 +1,5 @@
+﻿  cpa_lab_6_4_4_(3)-B.cpp
+e:\study_practice2017\c++essential\cpa_lab_6_4_4_(3)-b\cpa_lab_6_4_4_(3)-b\cpa_lab_6_4_4_(3)-b.cpp(28): warning C4018: '>=': signed/unsigned mismatch
+e:\study_practice2017\c++essential\cpa_lab_6_4_4_(3)-b\cpa_lab_6_4_4_(3)-b\cpa_lab_6_4_4_(3)-b.cpp(39): warning C4018: '<=': signed/unsigned mismatch
+  cpa_lab_6_4_4_(3)-B.vcxproj -> E:\Study_practice2017\C++Essential\cpa_lab_6_4_4_(3)-B\Debug\cpa_lab_6_4_4_(3)-B.exe
+  cpa_lab_6_4_4_(3)-B.vcxproj -> E:\Study_practice2017\C++Essential\cpa_lab_6_4_4_(3)-B\Debug\cpa_lab_6_4_4_(3)-B.pdb (Full PDB)

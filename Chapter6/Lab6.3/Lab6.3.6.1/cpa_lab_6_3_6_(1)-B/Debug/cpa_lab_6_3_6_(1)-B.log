@@ -1,0 +1,4 @@
+﻿  cpa_lab_6_3_6_(1)-B.cpp
+e:\study_practice2017\c++essential\cpa_lab_6_3_6_(1)-b\cpa_lab_6_3_6_(1)-b\cpa_lab_6_3_6_(1)-b.cpp(75): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  cpa_lab_6_3_6_(1)-B.vcxproj -> E:\Study_practice2017\C++Essential\cpa_lab_6_3_6_(1)-B\Debug\cpa_lab_6_3_6_(1)-B.exe
+  cpa_lab_6_3_6_(1)-B.vcxproj -> E:\Study_practice2017\C++Essential\cpa_lab_6_3_6_(1)-B\Debug\cpa_lab_6_3_6_(1)-B.pdb (Full PDB)

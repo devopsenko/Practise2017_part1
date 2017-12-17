@@ -1,0 +1,4 @@
+﻿  Lab644.cpp
+d:\labs2017(5)\practice)\lab6.4.4\lab6.4.4\lab644.cpp(16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab6.4.4.vcxproj -> D:\Labs2017(5)\Practice)\Lab6.4.4\Debug\Lab6.4.4.exe
+  Lab6.4.4.vcxproj -> D:\Labs2017(5)\Practice)\Lab6.4.4\Debug\Lab6.4.4.pdb (Partial PDB)
