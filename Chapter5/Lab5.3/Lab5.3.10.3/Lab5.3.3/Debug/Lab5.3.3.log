@@ -1,0 +1,6 @@
+﻿  Lab533.cpp
+d:\labs2017(5)\practice)\lab5.3.3\lab5.3.3\lab533.cpp(78): warning C4018: '<': signed/unsigned mismatch
+d:\labs2017(5)\practice)\lab5.3.3\lab5.3.3\lab533.cpp(90): warning C4018: '<': signed/unsigned mismatch
+d:\labs2017(5)\practice)\lab5.3.3\lab5.3.3\lab533.cpp(112): warning C4018: '<': signed/unsigned mismatch
+  Lab5.3.3.vcxproj -> D:\Labs2017(5)\Practice)\Lab5.3.3\Debug\Lab5.3.3.exe
+  Lab5.3.3.vcxproj -> D:\Labs2017(5)\Practice)\Lab5.3.3\Debug\Lab5.3.3.pdb (Partial PDB)
