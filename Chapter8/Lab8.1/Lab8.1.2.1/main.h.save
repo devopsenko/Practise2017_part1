@@ -1,0 +1,2 @@
+Stack& operator<< (int v) throw(Stack_overflow);
+Stack& operator>> (int &v) throw(Stack_empty);
